@@ -1,16 +1,16 @@
 {
-    "name": "UNLIMITED FILTER BOT",
-    "description": "An unlimited filter bot using Mongo DB",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "name": "IMWS FILTER BOT",
+    "description": "A filter bot for IMWS Channel",
+    "logo": "https://telegra.ph/file/d4b433aa37e5c8c31b426.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
-        "Telegram Bot",
-        "TroJanzHEX"
+        "IMWS Bot",
+        "IMWS"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "Channel": "https://t.me/Indianmoviesz",
+    "Support Group": "https://t.me/MovieAndWeb_Discuss",
+    "success_url": "https://t.me/Indianmoviesz",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
