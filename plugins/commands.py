@@ -243,7 +243,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("IMWS Channel", url="https://t.me/Indianmoviesz"),
+                    InlineKeyboardButton("IMWS Channel", url="https://t.me/joinchat/SXbgEaLVd1g-6OrW"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
