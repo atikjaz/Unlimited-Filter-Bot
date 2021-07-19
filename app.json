@@ -8,9 +8,9 @@
         "IMWS Bot",
         "IMWS"
     ],
-    "Channel": "https://t.me/Indianmoviesz",
+    "Channel": "https://t.me/joinchat/SXbgEaLVd1g-6OrW",
     "Support Group": "https://t.me/MovieAndWeb_Discuss",
-    "success_url": "https://t.me/Indianmoviesz",
+    "success_url": "https://t.me/joinchat/SXbgEaLVd1g-6OrW",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
