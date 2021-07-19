@@ -54,7 +54,7 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name : IMWS Filter Bot</b>
 
-⭕️<b>Channel :</b> @Indianmoviesz    
+⭕️<b>Channel :</b> @GodFather_Community    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
